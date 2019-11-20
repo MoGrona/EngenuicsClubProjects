@@ -1,2 +1,2 @@
 # EngenuicsClubProjects
-Various Hardware design projects worked on in EiE / Engenuics Club at University of Calgary. Designing done on Altium Designer and fabrication of boards by Oshpark. 
+Various Hardware design projects worked on in EiE / Engenuics Club at University of Calgary. Designing done on Altium Designer, fabrication of boards by OSHPARK. Boards were then finished by soldering components on by hand.
