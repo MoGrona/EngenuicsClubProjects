@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IMUDB-PRJ-01.PrjPCB]
+   Generated File[IMU-Blade.TXT]
+   Generated File[IMU-Blade.LDP]
+   Generated File[IMU-Blade.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 6:23:31 PM On 2019-03-02

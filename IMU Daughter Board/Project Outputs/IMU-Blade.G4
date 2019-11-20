@@ -1,0 +1,11 @@
+G04*
+G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,18.1.9 (240)*
+G04*
+G04 Layer_Physical_Order=5*
+G04 Layer_Color=16737945*
+%FSLAX24Y24*%
+%MOIN*%
+G70*
+G01*
+G75*
+M02*
